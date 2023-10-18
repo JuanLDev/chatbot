@@ -1,0 +1,332 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hi!"
+    },
+    {
+      "question": "bye",
+      "answer": "BYE!!"
+    },
+    {
+      "question": "create a tweet",
+      "answer": "This is a great tweet!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm just a computer program, so I don't have feelings, but I'm here to help!"
+    },
+    {
+      "question": "What's your name?",
+      "answer": "I don't have a name, but you can call me Daddy."
+    },
+    {
+      "question": "What is the meaning of life?",
+      "answer": "The meaning of life is a philosophical question. Some believe it's to find purpose and happiness, while others have different views."
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    },
+    {
+      "question": "What's the weather like today?",
+      "answer": "I'm sorry, I don't have access to real-time weather information. You can check a weather website or app for the current conditions."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you'll need ingredients like flour, sugar, cocoa powder, and eggs. Would you like a detailed recipe?"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Can you recommend a good book to read?",
+      "answer": "Of course! What genre are you interested in?"
+    },
+    {
+      "question": "How can I improve my productivity?",
+      "answer": "Improving productivity can involve setting goals, creating a schedule, and eliminating distractions."
+    },
+    {
+      "question": "What's the best way to learn a new language?",
+      "answer": "Learning a new language can be done through classes, apps, and practice with native speakers."
+    },
+    {
+      "question": "Tell me a fun fact.",
+      "answer": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!"
+    },
+    {
+      "question": "How can I stay healthy and fit?",
+      "answer": "Staying healthy and fit involves regular exercise, a balanced diet, and proper sleep."
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "question": "Can you explain the theory of relativity?",
+      "answer": "The theory of relativity, developed by Albert Einstein, explains how space, time, and gravity interact."
+    },
+    {
+      "question": "How do I start a small business?",
+      "answer": "Starting a small business involves planning, securing funding, and creating a business plan."
+    },
+    {
+      "question": "What are the best practices for time management?",
+      "answer": "Effective time management includes setting priorities, creating to-do lists, and minimizing distractions."
+    },
+    {
+      "question": "Tell me about the history of the Internet.",
+      "answer": "The Internet has its roots in ARPANET, a military project in the 1960s. It has since evolved into a global network of interconnected computers."
+    },
+    {
+      "question": "How does photosynthesis work?",
+      "answer": "Photosynthesis is the process by which green plants and some other organisms convert light energy into chemical energy in the form of glucose."
+    },
+    {
+      "question": "What's the difference between a virus and a bacterium?",
+      "answer": "Viruses are smaller and can only replicate inside a host cell, while bacteria are single-celled organisms that can reproduce on their own."
+    },
+    {
+      "question": "What's the tallest mountain in the world?",
+      "answer": "The tallest mountain in the world is Mount Everest, located in the Himalayas."
+    },
+    {
+      "question": "How do I prepare for a job interview?",
+      "answer": "Job interview preparation involves researching the company, practicing common interview questions, and dressing professionally."
+    },
+    {
+      "question": "Tell me about famous artists.",
+      "answer": "There are countless famous artists throughout history, from Leonardo da Vinci to Vincent van Gogh, known for their incredible works of art."
+    },
+    {
+      "question": "What is the best way to save money?",
+      "answer": "Saving money involves budgeting, avoiding unnecessary expenses, and setting financial goals."
+    },
+    {
+      "question": "What's the difference between a comet and an asteroid?",
+      "answer": "Comets are icy bodies that develop tails when they approach the Sun, while asteroids are rocky objects in space."
+    },
+    {
+      "question": "How do I write a compelling essay?",
+      "answer": "Writing a compelling essay involves a strong thesis, well-organized structure, and supporting evidence."
+    },
+    {
+      "question": "What's the process of making chocolate?",
+      "answer": "Chocolate is made from cocoa beans, which are roasted, ground, and then processed into various products like cocoa powder and chocolate bars."
+    },
+    {
+      "question": "How do I choose a career path?",
+      "answer": "Choosing a career path involves assessing your skills, interests, and long-term goals."
+    },
+    {
+      "question": "Tell me about renewable energy sources.",
+      "answer": "Renewable energy sources, such as solar and wind power, harness natural resources to generate electricity with minimal environmental impact."
+    },
+    {
+      "question": "What's the formula for calculating the area of a circle?",
+      "answer": "The formula for calculating the area of a circle is A = \u03c0r\u00b2, where A is the area and r is the radius."
+    },
+    {
+      "question": "How can I reduce my carbon footprint?",
+      "answer": "Reducing your carbon footprint involves actions like using public transportation, reducing energy consumption, and recycling."
+    },
+    {
+      "question": "What are the main principles of economics?",
+      "answer": "The main principles of economics include supply and demand, opportunity cost, and scarcity."
+    },
+    {
+      "question": "What is climate change?",
+      "answer": "Climate change refers to long-term shifts in weather patterns and temperatures, often caused by human activities, like burning fossil fuels."
+    },
+    {
+      "question": "How do I cook a perfect steak?",
+      "answer": "Cooking a perfect steak involves selecting the right cut, seasoning, and using the appropriate cooking method."
+    },
+    {
+      "question": "What's the difference between a democracy and a dictatorship?",
+      "answer": "In a democracy, power is vested in the people, while in a dictatorship, it's concentrated in the hands of one person or a small group."
+    },
+    {
+      "question": "Tell me about space exploration.",
+      "answer": "Space exploration involves the study of outer space through the use of telescopes, satellites, and manned missions to other planets and beyond."
+    },
+    {
+      "question": "Tweet about your favorite book and why you love it.",
+      "answer": "Just finished a great book. It's filled with unforgettable characters and a gripping plot. #BookLovers #MustRead"
+    },
+    {
+      "question": "Share a tweet about a beautiful place you've visited recently.",
+      "answer": "Just came back from an amazing destination with breathtaking landscapes and friendly locals. #TravelGoals"
+    },
+    {
+      "question": "Tweet an inspiring quote that motivates you.",
+      "answer": "Here's a quote that keeps me going: 'The only limit to our realization of tomorrow will be our doubts of today.' - Franklin D. Roosevelt #Inspiration"
+    },
+    {
+      "question": "Tweet about a childhood memory that still brings a smile to your face.",
+      "answer": "Remembering a special childhood memory. It's the little moments that make life wonderful. #Nostalgia"
+    },
+    {
+      "question": "Share the best advice you've ever received.",
+      "answer": "Received valuable advice: 'Embrace change, stay true to your values, and keep learning.' It's been my guiding light. #LifeLessons"
+    },
+    {
+      "question": "Tweet about a hobby or passion that brings you joy.",
+      "answer": "Spent the day doing something I love. The joy of pursuing your passion is incomparable. #Passion"
+    },
+    {
+      "question": "Tweet about the serenity of nature and its beauty.",
+      "answer": "Nature brings me peace. The rustling leaves and gentle breeze are a reminder of the beauty around us. #NatureLover"
+    },
+    {
+      "question": "Create a tweet about your favorite book and why you love it.",
+      "answer": "Just finished a great book. It's filled with unforgettable characters and a gripping plot. #BookLovers #MustRead"
+    },
+    {
+      "question": "Create a tweet about a beautiful place you've visited recently.",
+      "answer": "Just came back from an amazing destination with breathtaking landscapes and friendly locals. #TravelGoals"
+    },
+    {
+      "question": "Create a tweet about an inspiring quote that motivates you.",
+      "answer": "Here's an inspiring quote: 'The only limit to our realization of tomorrow will be our doubts of today.' - Franklin D. Roosevelt #Inspiration"
+    },
+    {
+      "question": "Create a tweet about a childhood memory that still brings a smile to your face.",
+      "answer": "Reflecting on a cherished childhood memory. It's the little moments that make life wonderful. #Nostalgia"
+    },
+    {
+      "question": "Create a tweet about a hobby or passion that brings you joy.",
+      "answer": "Spent the day doing something I love. The joy of pursuing your passion is incomparable. #Passion"
+    },
+    {
+      "question": "Create a tweet about the serenity of nature and its beauty.",
+      "answer": "Nature brings me peace. The rustling leaves and gentle breeze are a reminder of the beauty around us. #NatureLover"
+    },
+    {
+      "question": "Create a tweet about your morning routine.",
+      "answer": "Starting the day with a cup of coffee and a smile. #MorningRoutine #NewDay"
+    },
+    {
+      "question": "Create a tweet about your favorite song and why it means so much to you.",
+      "answer": "Listening to my all-time favorite song. It's the soundtrack of my life and never gets old. #MusicLove"
+    },
+    {
+      "question": "Create a tweet about your weekend plans.",
+      "answer": "Looking forward to a relaxing weekend filled with good company and great food. #WeekendVibes"
+    },
+    {
+      "question": "Create a tweet about a recent achievement you're proud of.",
+      "answer": "Celebrating a recent achievement. Hard work pays off! #ProudMoment"
+    },
+    {
+      "question": "Create a tweet about your pet and the joy they bring to your life.",
+      "answer": "My furry friend brings endless joy. They're always there to brighten my day. #PetLove"
+    },
+    {
+      "question": "Create a tweet about the last book you read and your favorite part of it.",
+      "answer": "Just finished a great book. My favorite part? The unexpected plot twist that kept me hooked. #BookNerd"
+    },
+    {
+      "question": "Create a tweet about the beauty of a sunset you recently witnessed.",
+      "answer": "Chasing sunsets and capturing the breathtaking colors of nature. #SunsetMagic"
+    },
+    {
+      "question": "Create a tweet about your favorite comfort food on a cozy evening.",
+      "answer": "Indulging in a warm bowl of mac and cheese. It's pure comfort in a dish. #ComfortFood"
+    },
+    {
+      "question": "Create a tweet about the beauty of a sunset you recently witnessed.",
+      "answer": "Captured the stunning hues of the ocean sunset. Nature's canvas at its best. #SunsetMagic"
+    },
+    {
+      "question": "Create a tweet about your favorite way to unwind and relax after a long day.",
+      "answer": "Relaxing with a good book and a glass of red wine. It's the perfect escape. #Relaxation"
+    },
+    {
+      "question": "Create a tweet about a place you'd love to visit in the future.",
+      "answer": "Dreaming of exploring the historical wonders of Rome someday. #TravelDreams"
+    },
+    {
+      "question": "Create a tweet about your favorite movie and why it's a classic.",
+      "answer": "Watching 'The Shawshank Redemption.' A timeless classic with a powerful message. #MovieNight"
+    },
+    {
+      "question": "Create a tweet about your favorite holiday tradition and why it's special to you.",
+      "answer": "Decorating the Christmas tree with family - a tradition that warms my heart every year. #HolidayJoy"
+    },
+    {
+      "question": "Create a tweet about your most recent hobby or interest.",
+      "answer": "Exploring photography as a new hobby. Capturing moments and finding beauty in simplicity. #Photography"
+    },
+    {
+      "question": "Create a tweet about your go-to workout routine for staying active.",
+      "answer": "Morning runs keep me energized and fit. Fresh air, positive vibes, and a healthy start. #Fitness"
+    },
+    {
+      "question": "Create a tweet about your favorite dessert and why it's a sweet delight.",
+      "answer": "Indulging in a slice of rich chocolate cake. A slice of happiness in every bite. #DessertLover"
+    },
+    {
+      "question": "Create a tweet about the beauty of a starry night and the dreams it inspires.",
+      "answer": "Under the starry sky, dreams take flight. Gazing up, feeling small in the vast universe. #StarryNight"
+    },
+    {
+      "question": "Create a tweet about a quote that motivates you every day.",
+      "answer": "Living by 'Believe you can and you're halfway there.' - Theodore Roosevelt. A mantra for success. #Motivation"
+    },
+    {
+      "question": "Create a tweet about your favorite season and what you love most about it.",
+      "answer": "Fall is here! I adore the crisp air, colorful leaves, and pumpkin-spiced everything. #AutumnLove"
+    },
+    {
+      "question": "Create a tweet about a random act of kindness you witnessed recently.",
+      "answer": "Saw a stranger help an elderly person cross the street. Small gestures, big impact. #KindnessMatters"
+    },
+    {
+      "question": "Create a tweet about a place in your hometown that holds childhood memories.",
+      "answer": "Visiting the old park from my childhood - swings, laughter, and innocence. #Nostalgia"
+    },
+    {
+      "question": "Create a tweet about your favorite outdoor activity to unwind and clear your mind.",
+      "answer": "Hiking in the mountains. The quiet and the views are my escape from the daily hustle. #NatureLover"
+    },
+    {
+      "question": "Create a tweet about a dish you recently tried and loved.",
+      "answer": "Tasted sushi for the first time. It was a burst of flavors, and now I'm hooked! #FoodAdventures"
+    },
+    {
+      "question": "Create a tweet about your favorite childhood game and the memories it brings back.",
+      "answer": "Playing 'Hide and Seek' with friends. Childhood laughter and the thrill of hiding. #ChildhoodGames"
+    },
+    {
+      "question": "Create a tweet about a quote that defines your outlook on life.",
+      "answer": "'Live, love, and laugh' - My simple mantra for a happy life. #LifeMotto"
+    },
+    {
+      "question": "Create a tweet about a place you'd love to visit someday and why.",
+      "answer": "Dreaming of exploring the enchanting streets of Paris. The art, culture, and romance call to me. #Wanderlust"
+    },
+    {
+      "question": "como estas?",
+      "answer": "bien y tu?"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello!"
+    },
+    {
+      "question": "que hora es",
+      "answer": "son las 12 de la tarde"
+    },
+    {
+      "question": "make a python script",
+      "answer": "print(\"hello, world\")"
+    },
+    {
+      "question": "poop",
+      "answer": "q"
+    }
+  ]
+}
